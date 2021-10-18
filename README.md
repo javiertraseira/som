@@ -1,2 +1,1 @@
-# som
-Sistemas Operativos Monopuesto
+# Sistemas Operativos Monopuesto (SOM)
